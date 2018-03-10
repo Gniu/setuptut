@@ -1,0 +1,28 @@
+{
+    "author": "niugeorgef",
+    "dependencies": {},
+    "keywords": [],
+    "name": "setup-tut",
+    "pebble": {
+        "displayName": "Setup Tut",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "77b7158d-2321-4a27-a701-0eecd02bf64b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
